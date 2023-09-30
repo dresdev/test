@@ -16,26 +16,18 @@
     "name": "Nanatsu no Taizai Los 7 pecados capitales los siete pecados capitales",
     "ref": "go:nanatsu",
     "imgUrl": "8hMJiFNO4CmySBXgDKlg8axt5oe",
-    "tags": [
-      "accion",
-      "aventura",
-      "drama",
-      "sobrenatural",
-      "suspenso",
-      "fantasia"
-    ]
+    "tags": ["accion", "aventura", "drama", "suspenso", "fantasia"]
   },
   {
     "name": "No Game, No Life No Game No Life",
     "ref": "go:nogame",
     "imgUrl": "qpKGtHATF326zuC1jh7WCrY7u5g",
-    "tags": [
-      "accion",
-      "aventura",
-      "drama",
-      "sobrenatural",
-      "suspenso",
-      "fantasia"
-    ]
+    "tags": ["accion", "aventura", "drama", "sobrenatural", "fantasia"]
+  },
+  {
+    "name": "Chainsaw Man el pibe motosierra chain",
+    "ref": "go:chains",
+    "imgUrl": "npdB6eFzizki0WaZ1OvKcJrWe97",
+    "tags": ["accion", "aventura", "drama", "sobrenatural", "suspenso"]
   }
 ]
