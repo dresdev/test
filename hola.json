@@ -29,5 +29,11 @@
     "ref": "go:chains",
     "imgUrl": "npdB6eFzizki0WaZ1OvKcJrWe97",
     "tags": ["accion", "aventura", "drama", "sobrenatural", "suspenso"]
+  },
+  {
+    "name": "Jujutsu Kaisen",
+    "ref": "go:jujutsu",
+    "imgUrl": "g1rK2nRXSidcMwNliWDIroWWGTn",
+    "tags": ["accion", "aventura", "drama", "sobrenatural", "suspenso"]
   }
 ]
