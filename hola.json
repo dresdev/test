@@ -1,0 +1,41 @@
+[
+  {
+    "name": "One Punch Man",
+    "ref": "go:saitama",
+    "imgUrl": "3yvPziuLr2lT6DGP3M0jO7yjBVt",
+    "tags": [
+      "accion",
+      "aventura",
+      "drama",
+      "sobrenatural",
+      "suspenso",
+      "fantasia"
+    ]
+  },
+  {
+    "name": "Nanatsu no Taizai Los 7 pecados capitales los siete pecados capitales",
+    "ref": "go:nanatsu",
+    "imgUrl": "8hMJiFNO4CmySBXgDKlg8axt5oe",
+    "tags": [
+      "accion",
+      "aventura",
+      "drama",
+      "sobrenatural",
+      "suspenso",
+      "fantasia"
+    ]
+  },
+  {
+    "name": "No Game, No Life No Game No Life",
+    "ref": "go:nogame",
+    "imgUrl": "qpKGtHATF326zuC1jh7WCrY7u5g",
+    "tags": [
+      "accion",
+      "aventura",
+      "drama",
+      "sobrenatural",
+      "suspenso",
+      "fantasia"
+    ]
+  }
+]
